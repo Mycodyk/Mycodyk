@@ -5,3 +5,4 @@
 - 👨🏻‍💻 I like to write code
 - 📚 I am learning new technologies in Frontend
 - 📸 I do photography
+- 🎨 I like draw black and white paintings.
